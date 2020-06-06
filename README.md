@@ -10,6 +10,6 @@ Jede Folge hat einen eigenen Ordner mit dem jeweiligen Namen der Folge. Die Ordn
 
 - [Docker](https://docker.com)
 - [Docker Hub](https://hub.docker.com)
-- [Play with Docker](https://hub.docker.com/play-with-docker)
+- [Play with Docker](https://docker.com/play-with-docker)
 - [Docker Desktop](https://www.docker.com/products/docker-desktop)
 - [Visual Studio Code](https://code.visualstudio.com)
