@@ -6,6 +6,8 @@ Dieses Repository beinhaltet die begeleitenden Code-Beispiele zum Video-Kurs [Ei
 
 Jede Folge hat einen eigenen Ordner mit dem jeweiligen Namen der Folge. Die Ordner sind alleine lauffähig und beinhalten alle Dateien aus dem Video.
 
+- [Folge 1: Grundkonzepte](01-grundkonzepte/README.md)
+
 ## Wichtige Links
 
 - [Docker](https://docker.com)
