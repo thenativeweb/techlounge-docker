@@ -1,6 +1,6 @@
 # techlounge-docker
 
-Dieses Repository beinhaltet die begeleitenden Code-Beispiele zum Video-Kurs [Einführung in Docker](https://www.techlounge.io/docker) von [www.thenativeweb.io](https://www.thenativeweb.io).
+Dieses Repository beinhaltet die begeleitenden Code-Beispiele zum Video-Kurs [Einführung in Docker](https://www.thenativeweb.io/learning/techlounge-docker) von [www.thenativeweb.io](https://www.thenativeweb.io).
 
 ## Aufbau
 
