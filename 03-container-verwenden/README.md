@@ -14,7 +14,7 @@ $ docker run hello-world
 
 ```shell
 $ docker run -it ubuntu
-$ ...
+$ # ...
 $ exit
 ```
 
