@@ -1,10 +1,10 @@
 # techlounge-docker
 
-Dieses Repository beinhaltet die begeleitenden Code-Beispiele zum Video-Kurs [Einführung in Docker](https://www.thenativeweb.io/learning/techlounge-docker) von [www.thenativeweb.io](https://www.thenativeweb.io).
+Dieses Repository enthält die begeleitenden Codebeispiele zum Videokurs [Einführung in Docker](https://www.thenativeweb.io/learning/techlounge-docker) von [www.thenativeweb.io](https://www.thenativeweb.io).
 
 ## Aufbau
 
-Jede Folge hat einen eigenen Ordner mit dem jeweiligen Namen der Folge. Die Ordner sind alleine lauffähig und beinhalten alle Dateien aus dem Video.
+Jede Folge hat einen eigenen Ordner mit dem jeweiligen Namen der Folge. Die Ordner sind alleine lauffähig und enthalten alle Dateien aus dem Video.
 
 - [Folge 1: Grundkonzepte](01-grundkonzepte/README.md)
 - [Folge 2: Installation](02-installation/README.md)
