@@ -1,8 +1,8 @@
 # Folge 2: Installation
 
-- [Video der Folge 2: Installation auf Windows](https://www.techlounge.io/docker)
-- [Video der Folge 2: Installation auf macOS](https://www.techlounge.io/docker)
-- [Video der Folge 2: Installation auf Linux](https://www.techlounge.io/docker)
+- [Video der Folge 2: Installation auf Windows](https://www.youtube.com/watch?v=ne_akDsPrHg)
+- [Video der Folge 2: Installation auf macOS](https://www.youtube.com/watch?v=WxO9cnQ0BQI)
+- [Video der Folge 2: Installation auf Linux](https://www.youtube.com/watch?v=-UNAvc9jOsw)
 
 In der zweiten Folge wird Docker installiert.
 
